@@ -1,4 +1,4 @@
-# projects
+# Projects
 Coding and/Or Engineering Projects
 
 # Glucose Spike Prediction from Wearable Data
